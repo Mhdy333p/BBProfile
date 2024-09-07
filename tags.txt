@@ -1,0 +1,29 @@
+All
+SQLi_StatusCode
+SSRF
+XSS
+SQLi_TimeBased
+API
+Blind XSS
+CORS
+CRLF
+CVEs
+Cloud
+DRWuzz
+Drupal
+Errors
+Forgot Password
+Fuzzing Files
+GraphQL
+Introspection
+JWT
+Mobile
+Open Redirect
+Path Traversal
+RCE
+SQLi
+SSTI
+Test XSS
+Wordpress
+X-Headers-Collab
+XXE
